@@ -2,7 +2,7 @@
   "name": "disruptiveideaz",
   "version": "0.0.0",
   "description": "site for hosting my app ideas",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
@@ -17,7 +17,7 @@
   "license": "MIT",
   "engines": {
     "node": "0.12.2",
-    "npm": "1.4.13"
+    "npm": "2.6.0"
   },
   "dependencies": {
     "express": "^4.13.0"
