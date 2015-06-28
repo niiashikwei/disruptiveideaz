@@ -17,7 +17,7 @@
   "license": "MIT",
   "engines": {
     "node": "0.12.2",
-    "npm": "2.7.4"
+    "npm": "2.12.0"
   },
   "dependencies": {
     "express": "^4.13.0"
