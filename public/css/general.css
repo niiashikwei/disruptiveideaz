@@ -19,6 +19,10 @@ body div li a{
     padding: 5px;
 }
 
+body div li a:hover {
+    background-color: #de3866;
+}
+
 body div h1{
     text-align: center;
 }
