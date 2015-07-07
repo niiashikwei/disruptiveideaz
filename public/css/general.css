@@ -9,6 +9,10 @@ body div{
     padding: 10px;
 }
 
+body div h1{
+    font-size: 3em;
+}
+
 body div li{
     margin-bottom: 10px;
 }
