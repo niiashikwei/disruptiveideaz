@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Anonymous Pro", "Inconsolata", "Menlo", "Consolas", "Bitstream Vera Sans Mono", "Courier New", monospace;
+    margin:20%;
+}
+
+body div{
+    padding: 10px;
+}
+
+body div li{
+    margin-bottom: 10px;
+}
+
+body div li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+body div h1{
+    text-align: center;
+}
+
